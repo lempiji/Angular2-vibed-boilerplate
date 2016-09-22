@@ -1,0 +1,8 @@
+doctype html
+html
+	head
+		title HTTP error #{error.code} - Angular2 meets vibe.d
+	body
+		h1= title
+        p An error has occured. We are really sorry about that!
+        p Error description: #{error.message}

@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"lempiji"
+	],
+	"name": "angular2-vibed-boilerplate",
+	"license": "MIT",
+	"copyright": "Copyright © 2016, lempiji",
+	"description": "A simple vibe.d server application.",
+	"dependencies": {
+		"vibe-d": "~>0.7.26"
+	},
+	"versions": [
+		"VibeDefaultMain"
+	]
+}
